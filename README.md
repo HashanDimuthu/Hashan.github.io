@@ -1,6 +1,6 @@
 # Hashan.github.io
 
-# <a href="https://hashandimuthu.github.io/Hashan/"> Click Here </a>
+# <a href="https://hashandimuthu.github.io/Hashan.github.io/"> Click Here </a>
 
 ## This is the <a href="https://hashandimuthu.github.io/Hashan.github.io/">My web site</a> and use html and css for makeing.Contact me on <a href="https://t.me/HashanDimuthu/">Telegram</a><br>
 
